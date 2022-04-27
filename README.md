@@ -22,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=networkcameron&show_icons=true&locale=en&layout=compact" alt="networkcameron" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=networkcameron&show_icons=true&locale=en" alt="networkcameron" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=networkcameron&" alt="networkcameron" /></p>
