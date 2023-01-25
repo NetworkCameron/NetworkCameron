@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NetworkCameron</h1>
-<h3 align="center">A 14 year old developer from Michigan</h3>
+<h3 align="center">A 15 year old developer from Michigan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=networkcameron&label=Profile%20views&color=0e75b6&style=flat" alt="networkcameron" /> </p>
 
