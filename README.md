@@ -8,10 +8,10 @@
 
 - 📫 How to reach me **networkcam780@gmail.com**
 
-**Certifications**
+
 CompTIA ITF+
 
-- ⚡ I am currently studying for my Ethical Hacking + Certification
+- ⚡ I currently have my **CompTIA ITF+** Certification and I'm studying for my Ethical Hacking +.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
