@@ -1,20 +1,21 @@
-<h1 align="center">Hi 👋, Cameron</h1>
-<h3 align="center">A 16 year old developer from Michigan</h3>
+<h1 align="center">Cameron</h1>
+<h3 align="center">A 17 year old developer from Michigan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=networkcameron&label=Profile%20views&color=0e75b6&style=flat" alt="networkcameron" /> </p>
 
 
 - 🌱 I’m currently learning **Cybersecurity**
 
-- 📫 How to reach me **networkcam780@gmail.com**
+- 📫 How to reach me **gawfamyt@gmail.com**
 
 
 CompTIA ITF+
 
-- ⚡ I currently have my **CompTIA ITF+** Certification and I'm studying for my Ethical Hacking +.
+- ⚡ I currently have my **CompTIA ITF+** Certification and I'm studying for my Network +.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/cameron-gawthrop-584299292" target="blank"><img align="center" src="https://raw.githubusercontent.com/linnovate/root-me/refs/heads/master/src/images/icons/linkedin.ico" alt="networkcameron" height="30" width="40" /></a>
 <a href="https://dev.to/networkcameron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="networkcameron" height="30" width="40" /></a>
 <a href="https://instagram.com/734.cameron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="734.cameron" height="30" width="40" /></a>
 </p>
