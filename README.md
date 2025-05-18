@@ -9,9 +9,11 @@
 - 📫 How to reach me **gawfamyt@gmail.com**
 
 
-CompTIA ITF+
+Certificates
 
-- ⚡ I currently have my **CompTIA ITF+** Certification and I'm studying for my Network +.
+-  **COMPTIA ITF+**
+-  **Comptia NETWORK +**
+-  **Comptia A+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
